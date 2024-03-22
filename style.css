@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    background-color:aqua;
+}
+.division{
+    border: 2px solid green;
+    background-color:grey;
+    margin: 10px;
+    width:100%;
+}
